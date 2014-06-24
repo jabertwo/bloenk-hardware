@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "bloenk", "bloenk\bloenk.cproj", "{D219501D-D77F-4DDF-AF24-58F16D074A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D219501D-D77F-4DDF-AF24-58F16D074A9C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D219501D-D77F-4DDF-AF24-58F16D074A9C}.Debug|AVR.Build.0 = Debug|AVR
+		{D219501D-D77F-4DDF-AF24-58F16D074A9C}.Release|AVR.ActiveCfg = Release|AVR
+		{D219501D-D77F-4DDF-AF24-58F16D074A9C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

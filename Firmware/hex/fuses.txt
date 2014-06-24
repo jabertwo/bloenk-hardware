@@ -1,0 +1,3 @@
+FUSE_L  = 0xe1
+
+FUSE_H  = 0xd5
